@@ -6,9 +6,9 @@ $> ./42sh
 
 Features :
 
-- Affichage d'un prompt et édition de ligne.
+- L'Affichage d'un prompt et l'édition de ligne.
 
-- Les builtins suivantes : cd, echo, exit, env, setenv, unsetenv, history.
+- Les builtins cd, echo, exit, env, setenv, unsetenv, history.
 
 - Le séparateur ";".
 
@@ -16,4 +16,4 @@ Features :
 
 - Les opérateurs logiques "&&" et "||".
 
-- Les opérateurs de redirection suivants : ">", ">>", "<", "<<" et "|".
+- Les opérateurs de redirection ">", ">>", "<", "<<" et "|".
