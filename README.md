@@ -6,7 +6,7 @@ $> ./42sh
 
 Features :
 
-- L'Affichage d'un prompt et l'édition de ligne.
+- L'affichage d'un prompt et l'édition de ligne.
 
 - Les builtins cd, echo, exit, env, setenv, unsetenv, history.
 
