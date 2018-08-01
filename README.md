@@ -10,6 +10,8 @@ Features :
 
 - Le séparateur ";".
 
+- La complétion dynamique.
+
 - Les inhibiteurs """ (double quote), "’" (simple quote) et "\" (backslash).
 
 - Les opérateurs logiques "&&" et "||".
