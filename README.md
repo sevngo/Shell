@@ -1,8 +1,6 @@
 Ce projet consiste à créer de toutes pièces un shell complet.
 
-$> make
-
-$> ./42sh
+$> make && ./42sh
 
 Features :
 
